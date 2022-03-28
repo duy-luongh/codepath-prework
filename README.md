@@ -34,12 +34,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] List anything else that you can get done to improve the app!
 - [x] Modified frequency (Hz) of buttons to match with DO, RE, MI, FA, SOL, LA music note.
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 Start/End Button Behavior:
 ![](http://g.recordit.co/Mj3e9ltXbm.gif)
 
