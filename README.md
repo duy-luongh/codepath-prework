@@ -40,8 +40,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Start/End Button Behavior:
 ![](http://g.recordit.co/Mj3e9ltXbm.gif)
+
+Losing the Game:
 ![](http://g.recordit.co/FWLa4K66Al.gif)
+
+Winning the Game:
 ![](http://g.recordit.co/7H0JIlP3n3.gif)
 
 ## Reflection Questions
