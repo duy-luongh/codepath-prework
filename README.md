@@ -6,7 +6,7 @@ Submitted by: **DANTE LUONG**
 
 Time spent: **8** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/quill-defiant-frame
 
 ## Required Functionality
 
@@ -38,10 +38,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-Start/End Button Behavior:
+Start/Stop Button Behavior: Press start to start the game, and press stop to stop the game.
 ![](http://g.recordit.co/Mj3e9ltXbm.gif)
 
-Losing the Game:
+Losing the Game: User will have 3 guesses in total, and if the user to make 3 mistakes, they lose the game.
 ![](http://g.recordit.co/FWLa4K66Al.gif)
 
 Winning the Game:
@@ -49,10 +49,10 @@ Winning the Game:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I use Google and Stackoverflow to search on how to generate random whole numbers from a specific range, and some of javascripts syntax. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+I faced many challenges because these are all new things for me such as : Glitch, Loom, Git and Recordit. Therefore, it takes me some time to watch tutorials and learn about it. After trying multiple times, I started to get used to it. Even though it took me 1 hours longer to complete the project and upload all necessary things, I felt great because I have learned so many new things.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
