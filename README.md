@@ -6,7 +6,11 @@ Submitted by: **DANTE LUONG**
 
 Time spent: **8** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/quill-defiant-frame
+Link to project: 
+https://glitch.com/edit/#!/quill-defiant-frame (old)
+
+Please use the new link to my project as below, the old one will not work.
+https://glitch.com/edit/#!/lucky-adorable-botany (new)
 
 ## Required Functionality
 
@@ -28,9 +32,9 @@ The following **optional** features are implemented:
 * [x] Playback speeds up on each turn
 * [x] Computer picks a different pattern each time the game is played
 * [x] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
+* [x] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* [x] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
@@ -49,10 +53,10 @@ Winning the Game:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I use Google and Stackoverflow to search on how to generate random whole numbers from a specific range, and some of javascripts syntax. 
+=> I use Google and Stackoverflow to search on how to generate random whole numbers from a specific range, and some of javascripts syntax. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I faced many challenges because these are all new things for me such as : Glitch, Loom, Git and Recordit. Therefore, it takes me some time to watch tutorials and learn about it. After trying multiple times, I started to get used to it. Even though it took me 1 hours longer to complete the project and upload all necessary things, I felt great because I have learned so many new things.
+=> I faced many challenges because these are all new things for me such as : Glitch, Loom, Git and Recordit. Therefore, it takes me some time to watch tutorials and learn about it. After trying multiple times, I started to get used to it. Even though it took me 1 hours longer to complete the project and upload all necessary things, I felt great because I have learned so many new things.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
