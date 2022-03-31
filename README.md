@@ -46,13 +46,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Start/Stop Button Behavior: Press start to start the game, and press stop to stop the game.
-![](http://g.recordit.co/Mj3e9ltXbm.gif)
+![](http://g.recordit.co/cLvcRUqiQX.gif)
 
 Losing the Game: User will have 3 guesses in total, and if the user to make 3 mistakes, they lose the game.
-![](http://g.recordit.co/FWLa4K66Al.gif)
+![](http://g.recordit.co/TIsIqSv1xH.gif)
 
 Winning the Game:
-![](http://g.recordit.co/7H0JIlP3n3.gif)
+![](http://g.recordit.co/622exbcIhS.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
