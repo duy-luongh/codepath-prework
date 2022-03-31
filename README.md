@@ -7,9 +7,12 @@ Submitted by: **DANTE LUONG**
 Time spent: **8** hours spent in total
 
 Link to project: 
+
 https://glitch.com/edit/#!/quill-defiant-frame (old)
 
+
 Please use the new link to my project as below, the old one will not work.
+
 https://glitch.com/edit/#!/lucky-adorable-botany (new)
 
 ## Required Functionality
