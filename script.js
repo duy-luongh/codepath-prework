@@ -12,12 +12,16 @@ var tonePlaying = false;
 var volume = 0.5; //must be between 0.0 and 1.0
 var guessCounter = 0;
 var playerStrikes;
+var timeLeft = 0;
+var timeInterval;
 
 function startGame() {
   //initialize game variables
   progress = 0;
   gamePlaying = true;
+  clueHoldTime = 1000;
   playerStrikes = 2;
+  timeLeft = 360;
 
   //initialize secret pattern
   randomPattern(1, 6);
@@ -26,6 +30,7 @@ function startGame() {
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
   playClueSequence();
+  timeInterval = setInterval(guessesTimer, 1000);
 }
 
 function randomPattern(min, max) {
@@ -37,7 +42,9 @@ function randomPattern(min, max) {
 }
 
 function stopGame() {
+  clearInterval(timeInterval);
   gamePlaying = false;
+  timeLeft = 0;
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
 }
@@ -103,7 +110,7 @@ function playClueSequence() {
     delay += clueHoldTime;
     delay += cluePauseTime;
   }
-  clueHoldTime -= 50; //decreases on each turn
+  clueHoldTime -= 75; //decreases on each turn
 }
 
 function loseGame() {
@@ -143,6 +150,20 @@ function guess(btn) {
       playerStrikes--;
     }
   }
+}
+
+function guessesTimer() {
+  if (gamePlaying && !tonePlaying) {
+    timeLeft--;
+  }
+
+  if (timeLeft == 0) {
+    loseGame();
+    clearInterval(timeInterval);
+  }
+
+  let msg = "You have " + timeLeft + " seconds left!";
+  document.getElementById("timer").innerHTML = msg;
 }
 
 // Page Initialization
