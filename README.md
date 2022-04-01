@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 Start/Stop Button Behavior: Press start to start the game, and press stop to stop the game.
 ![](http://g.recordit.co/cLvcRUqiQX.gif)
 
-Losing the Game: User will have 3 guesses in total, and if the user to make 3 mistakes, they lose the game.
+Losing the Game: User will have 3 guesses in total, and if the user to make 3 mistakes, they lose the game. Moreover, there are limited time for guessing, and if user run out of time they will also lose the game.
 ![](http://g.recordit.co/TIsIqSv1xH.gif)
 
 Winning the Game:
