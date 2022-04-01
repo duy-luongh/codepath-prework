@@ -4,7 +4,7 @@
 
 Submitted by: **DANTE LUONG**
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/lucky-adorable-botany
 
@@ -52,7 +52,7 @@ Winning the Game:
 => I use Google and Stackoverflow to search on how to generate random whole numbers from a specific range, how to use inteval and some of javascripts syntax. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-=> I faced many challenges when I was doing the project and optional features, but I did not find it difficult to create this submission. Because I had heard about GitHub and some other version control softwares, it did not take many times to upload my project from Glitch to GitHub. 
+=> I faced many challenges when I was doing the project and optional features because I had to prioritize my time for studying and doing assignments. Other than that, I did not find it difficult to create this submission. Because I had heard about GitHub and some other version control softwares, it did not take many times to upload my project from Glitch to GitHub. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
 => I would like to know more about web application development. Since I am working at frontdesk in my college, I had a chance to use many different management and check-in softwares. I wonder if I can make something like that or improve it because I feel like the user experience is not very good on those applications.
@@ -64,7 +64,7 @@ Winning the Game:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dHmhjp1LP1CK28_3XgxW0ffsNzdrIoWV%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR18Uz-YHL17uK2YLMFKR_PhsYPOfGorl-Kdjsrsrii6Ya_177EBm8mSHEw&h=AT13yek0oopArJFTKm0s13zT40pezoiYjxTnUYzZPiXTvBIs3lF296SQrtJkTuc-dERFNCUMagpBxdQDi-bQm5g-D-87iMNJwEOeuyTRnrauqAiVJYNAlY69O7anyaeVb-UiHL6MZsoDjYk22ZnTiA)
 
 
 ## License
