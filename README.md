@@ -6,14 +6,7 @@ Submitted by: **DANTE LUONG**
 
 Time spent: **8** hours spent in total
 
-Link to project: 
-
-https://glitch.com/edit/#!/quill-defiant-frame (old)
-
-
-Please use the new link to my project as below, the old one will not work.
-
-https://glitch.com/edit/#!/lucky-adorable-botany (new)
+Link to project: https://glitch.com/edit/#!/lucky-adorable-botany
 
 ## Required Functionality
 
@@ -55,17 +48,17 @@ Winning the Game:
 ![](http://g.recordit.co/622exbcIhS.gif)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-=> I use Google and Stackoverflow to search on how to generate random whole numbers from a specific range, and some of javascripts syntax. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+=> I use Google and Stackoverflow to search on how to generate random whole numbers from a specific range, how to use inteval and some of javascripts syntax. 
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-=> I faced many challenges because these are all new things for me such as : Glitch, Loom, Git and Recordit. Therefore, it takes me some time to watch tutorials and learn about it. After trying multiple times, I started to get used to it. Even though it took me 1 hours longer to complete the project and upload all necessary things, I felt great because I have learned so many new things.
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+=> I faced many challenges when I was doing the project and optional features, but I did not find it difficult to create this submission. Because I had heard about GitHub and some other version control softwares, it did not take many times to upload my project from Glitch to GitHub. 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+=> I would like to know more about web application development. Since I am working at frontdesk in my college, I had a chance to use many different management and check-in softwares. I wonder if I can make something like that or improve it because I feel like the user experience is not very good on those applications.
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+=> If I had a few more hours to work on this project, I would spend them doing more documentation on my code. I would add more comments and explanations to make it easier for future maintenance. Also, I would spend more time testing my program with different test cases to make sure it was correctly implemented. 
 
 
 
