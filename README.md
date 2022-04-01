@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **DANTE LUONG**
+Submitted by: **DANTE LUONG (HOANG DUY LUONG)**
 
 Time spent: **10** hours spent in total
 
@@ -69,7 +69,7 @@ Winning the Game:
 
 ## License
 
-    Copyright DANTE LUONG
+    Copyright DANTE LUONG (HOANG DUY LUONG)
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
